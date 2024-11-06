@@ -58,6 +58,3 @@ This project implements a **user authentication system** using both **local (ema
 - **Backend**: Node.js, Express for server setup
 - **Database**: MongoDB for data storage
 - **Authentication**: JSON Web Tokens (JWT) for session management, Google OAuth for third-party login
-
-## License
-This project is licensed under the MIT License.
